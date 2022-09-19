@@ -6,8 +6,6 @@ layout: docs
 category: Reference
 ---
 
-**Importing**
-
 ```javascript
 import ReactTestUtils from 'react-dom/test-utils'; // ES6
 var ReactTestUtils = require('react-dom/test-utils'); // ES5 with npm
